@@ -5,7 +5,7 @@
 # 💫 About Me
 
 👋 Hey, I’m **Ritvik**  
-🎮 *Game Developer in Progress* | 💻 *CSE Student* | 🎨 *Creative Explorer*
+🎮 *Game Developer/designer in Progress* | 💻 *CSE Student* | 🎨 *Creative Explorer*
 
 🔥 **Some repos are private until graduation — portfolio coming soon!**
 
