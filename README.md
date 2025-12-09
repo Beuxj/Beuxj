@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Beuxj/Beuxj/blob/main/banner.png" alt="Ritvik Banner" width="100%" />
+  <img src="https://github.com/Beuxj/Beuxj/blob/main/GAME%20DESI.png" alt="Ritvik Banner" width="100%" />
 </p>
 
 # 💫 About Me
