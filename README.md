@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Beuxj/Beuxj/blob/main/banner.png" alt="Beuxj Banner" width="100%" />
+  <img src="[https://github.com/Beuxj/Beuxj/blob/main/banner.png](https://github.com/Beuxj/Beuxj/blob/main/banner.png)" alt="Beuxj Banner" width="100%" />
 </p>
 
 <h1 align="center"><code>Beuxj</code></h1>
