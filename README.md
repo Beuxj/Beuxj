@@ -67,4 +67,6 @@ I build prototypes and technical experiments to explore ideas and understand how
   <a href="https://www.linkedin.com/in/ritvik-paul-022bb638/">LinkedIn</a>
   ·
   <a href="mailto:ritvikp2023@gmail.com">Email</a>
+  .
+  <a href="https://beuxj.itch.io/">Itch</a>
 </p>
