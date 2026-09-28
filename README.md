@@ -1,3 +1,62 @@
-https://github.com/Beuxj/Beuxj/blob/main/GAME%20DESI.png" alt="Ritvik Banner" width="100%" />
+<p align="center">
+  <img src="https://github.com/Beuxj/Beuxj/blob/main/GAME%20DESI.png" alt="Beuxj Banner" width="100%" />
+</p>
 
-# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 > Hi, I am **Ritvik**, a Computer Science Engineering student and builder who loves turning concepts into actual apps, services, and games. I enjoy the entire process of tinkering with both hardware and software, creating digital experiences, and documenting the journey along the way. --- # 𝓦𝓱𝓪𝓽 𝓘 𝓓𝓸 * **Product & App Development:** Designing and building functional software solutions from scratch. * **Game Development:** Crafting immersive worlds, mechanics, and interactive environments using modern engines. * **Hardware & Software Tinkering:** Exploring how systems work under the hood and experimenting with cross-disciplinary tech. * **Process Documentation:** Sharing progress, learnings, and builds transparently as I grow. --- # 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 * **Programming Languages:** Python, Java, JavaScript * **Engines & 3D:** Unreal Engine, Godot, Blender * **Tools & Workflow:** Git, VS Code, Nvim, Itch.io --- # 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝓦𝓲𝓽𝓱 𝓜𝓮  [](mailto:ritvikp2023@gmail.com) --- # 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼    ---
+<h1 align="center">Beuxj</h1>
+
+<p align="center">
+  <i>Turning ideas into things that actually exist.</i>
+</p>
+
+---
+
+## About
+
+CSE student and creative developer interested in **games, environments, systems, and technology**.
+
+I like taking an idea, figuring out how it works, and building it into something real — whether that's a game, simulation, tool, or experiment.
+
+I enjoy tinkering with both **software and hardware** and documenting what I learn along the way.
+
+---
+
+## What I Build
+
+**Games** · Gameplay systems, mechanics, physics, AI, exploration
+
+**Environments** · World building, level design, 3D assets, lighting & atmosphere
+
+**Systems** · Physics engines, simulations, procedural generation & tools
+
+**Experiments** · Prototypes, technical experiments & whatever seems interesting
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-181818?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-181818?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square\&logo=javascript\&logoColor=white)
+
+**Game Development & 3D**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-181818?style=flat-square\&logo=unrealengine\&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-181818?style=flat-square\&logo=godotengine\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-181818?style=flat-square\&logo=blender\&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-181818?style=flat-square\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-181818?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-181818?style=flat-square\&logo=neovim\&logoColor=white)
+![itch.io](https://img.shields.io/badge/itch.io-181818?style=flat-square\&logo=itchdotio\&logoColor=white)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/ritvik-paul-022bb638/) · [Email](mailto:ritvikp2023@gmail.com)
+
+<p align="center">
+  <i>Explore. Tinker. Build.</i>
+</p>
