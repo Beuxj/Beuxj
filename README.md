@@ -16,27 +16,16 @@
 
 ## `ABOUT`
 
-CSE student and creative developer interested in **games, environments, systems, and technology**.
-
-I enjoy taking an idea, figuring out how it works, and turning it into something real — whether that's a game, simulation, tool, or experiment.
-
-I like tinkering with both **software and hardware**, and occasionally documenting what I build and learn along the way.
+CSE student & creative developer turning ideas into real-world software, games, and hardware experiments. 
 
 ---
 
 ## `WHAT I BUILD`
 
-**`GAMES`**
-I build gameplay systems, mechanics, physics, AI, and exploration-focused experiences.
-
-**`ENVIRONMENTS`**
-I create worlds, levels, 3D assets, and atmospheric environments.
-
-**`SYSTEMS`**
-I experiment with physics engines, simulations, procedural generation, and custom tools.
-
-**`EXPERIMENTS`**
-I build prototypes and technical experiments to explore ideas and understand how things work.
+* **`GAMES`** — Gameplay systems, mechanics, physics, and AI.
+* **`ENVIRONMENTS`** — Worlds, levels, 3D assets, and atmosphere.
+* **`SYSTEMS`** — Physics engines, simulations, and custom tools.
+* **`EXPERIMENTS`** — Prototypes exploring how things work.
 
 ---
 
