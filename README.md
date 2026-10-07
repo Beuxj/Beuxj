@@ -17,8 +17,7 @@
 
 ## `ABOUT`
 
-CSE student & creative developer turning ideas into real-world software, games, and hardware experiments. 
-* 🌱 **Currently exploring:** Advanced gameplay systems, procedural generation, and custom physics interactions.
+CSE student and creative developer bridging the gap between hardware tinkering and software engineering. I like taking complex problems apart, figuring out how they work under the hood, and building functional games, simulations, and tools from scratch.
 
 ---
 
@@ -41,25 +40,13 @@ CSE student & creative developer turning ideas into real-world software, games, 
 
 ## `TECH STACK`
 
-**LANGUAGES**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</p>
-
-**GAME DEVELOPMENT & 3D**
-
-<p>
   <img src="https://img.shields.io/badge/unrealengine-%3C%3F.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godotengine&logoColor=%23478CBF" alt="Godot" />
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-</p>
-
-**TOOLS**
-
-<p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
