@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Beuxj/Beuxj/blob/main/banner.png" alt="Beuxj Banner" width="100%" />
-</p>
-
 <h1 align="center"><code>Beuxj</code></h1>
 
 <!-- Expanded width to prevent text cutting -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+things+that+actually+exist.;CSE+Student+%26+Creative+Developer.;Building+games%2C+worlds%2C+and+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+things+that+actually+exist.;CSE+Student+%26+Game+Developer.;Building+adventures%2C+worlds%2C+and+systems." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,16 +13,16 @@
 
 ## `ABOUT`
 
-CSE student and creative developer bridging the gap between hardware tinkering and software engineering. I like taking complex problems apart, figuring out how they work under the hood, and building functional games, simulations, and tools from scratch.
+CSE student and game developer focused on crafting exploration-adventure games and large, playable 3D environments. I enjoy the entire loop of creation—from researching and testing new software and hardware to tinkering under the hood and building things from scratch.
 
 ---
 
 ## `WHAT I BUILD`
 
-* **`GAMES`** — Gameplay systems, mechanics, physics, and AI.
-* **`ENVIRONMENTS`** — Worlds, levels, 3D assets, and atmosphere.
+* **`GAMES`** — Exploration-adventure titles, gameplay systems, mechanics, and physics.
+* **`ENVIRONMENTS`** — Immersive worlds, levels, and large playable 3D maps.
 * **`SYSTEMS`** — Physics engines, simulations, and custom tools.
-* **`EXPERIMENTS`** — Prototypes exploring how things work.
+* **`EXPERIMENTS`** — Software and hardware prototypes exploring how things work.
 
 ---
 
